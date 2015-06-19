@@ -1,7 +1,7 @@
 class DashboardController < ApplicationController
   
   def home
-    render :text => "Hello World!"
+    render
   end
   
 end
